@@ -10,6 +10,10 @@ AniList Api for fetching data which has a rate limit of 90 requests/min. For vid
 
 https://user-images.githubusercontent.com/81347541/143006730-e91afb9a-479e-4298-8711-cdbb6f4bbf8f.mp4
 
+## Deploy using Heroku
+
+[![Deploy with heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ## Deploy on your computer
 
 You need to have `nodejs` and `git` installed on your pc for following the intructions

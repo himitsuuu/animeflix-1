@@ -1,0 +1,11 @@
+{
+    "name": "Animeflix",
+    "description": "A anime discovery, streaming site made with NextJs and TailwindCSS. Uses AniList API and video data from GogoAnime. No ads and no vpn required",
+    "repository": "https://github.com/chirag-droid/animeflix",
+    "stack": "container",
+    "formation": {
+      "worker": {
+        "quantity": 1
+      }
+    }
+}
