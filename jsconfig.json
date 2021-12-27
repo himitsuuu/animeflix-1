@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "baseUrl": ".",
+    "baseUrl": "https://kimikoapps.herokuapp.com/",
     "paths": {
       "@components/*": ["components/*"],
       "@hooks/*": ["hooks/*"],
